@@ -1,0 +1,230 @@
+<!DOCTYPE webproject>
+<webproject>
+  <project usePreviewPrefix="0" previewPrefix="" usePersistentBookmarks="0" name="TICASWeb" encoding="iso 8859-1" enableEvents="true" >
+    <upload/>
+    <templates>templates/</templates>
+    <toolbars>toolbars/</toolbars>
+    <item url="" uploadstatus="1" />
+    <item url="styles/" uploadstatus="1" />
+    <item url="descargas/" uploadstatus="1" />
+    <item url="productos/" uploadstatus="1" />
+    <item url="capacitacion/" uploadstatus="1" />
+    <item url="scripts/" uploadstatus="1" />
+    <item modified_time="1144340531" url="index.html" uploadstatus="1" />
+    <item modified_time="1143994494" url="contactos.html" uploadstatus="1" />
+    <item url="toolbars/" uploadstatus="1" />
+    <item modified_time="1144339693" url="ticasweb.webprj" uploadstatus="1" />
+    <item modified_time="1143998086" url="styles/screen.css" uploadstatus="1" />
+    <item url="templates/" uploadstatus="1" />
+    <debuggers>
+      <Gubed/>
+      <pathmapper/>
+    </debuggers>
+    <defaultDTD>-//w3c//dtd html 4.01 transitional//en</defaultDTD>
+    <item url="descargas/manuales/" uploadstatus="1" />
+    <item url="descargas/software/" uploadstatus="1" />
+    <item url="descargas/imagenes/" uploadstatus="1" />
+    <item url="descargas/documentos/" uploadstatus="1" />
+    <item url="galeria/" uploadstatus="1" />
+    <item modified_time="1144293756" url="styles/print.css" uploadstatus="1" />
+    <item url="soluciones/" uploadstatus="1" />
+    <item url="ventas/" uploadstatus="1" />
+    <item modified_time="1144317950" url="ventas/debian-gnulinux.html" uploadstatus="1" />
+    <item modified_time="1144317987" url="ventas/openoffice-org.html" uploadstatus="1" />
+    <item url="capacitacion/html/" uploadstatus="1" />
+    <item url="capacitacion/pdf/" uploadstatus="1" />
+    <item modified_time="1144293195" url="capacitacion/html/certificaciones.html" uploadstatus="1" />
+    <item url="galeria/flisol2006/" uploadstatus="1" />
+    <item modified_time="1144293347" url="capacitacion/html/herramientas-cat.html" uploadstatus="1" />
+    <item modified_time="1144293719" url="capacitacion/html/herramientas-ofimatica-basico.html" uploadstatus="1" />
+    <item modified_time="1144293310" url="capacitacion/html/instalacion-gnulinux.html" uploadstatus="1" />
+    <item modified_time="1144293374" url="capacitacion/html/introduccion-gnulinux.html" uploadstatus="1" />
+    <item modified_time="1144293401" url="capacitacion/html/introduccion-pc-gnulinux.html" uploadstatus="1" />
+    <item modified_time="1144293509" url="capacitacion/html/logica-programacion.html" uploadstatus="1" />
+    <item modified_time="1144293669" url="capacitacion/html/migracion-ofimatica-sl.html" uploadstatus="1" />
+    <item modified_time="1144293256" url="capacitacion/html/ooo-calc.html" uploadstatus="1" />
+    <item modified_time="1144293256" url="capacitacion/html/ooo-impress.html" uploadstatus="1" />
+    <item modified_time="1144293277" url="capacitacion/html/ooo-suite.html" uploadstatus="1" />
+    <item modified_time="1144293256" url="capacitacion/html/ooo-writer.html" uploadstatus="1" />
+    <item modified_time="1144293483" url="capacitacion/html/php-avanzado.html" uploadstatus="1" />
+    <item modified_time="1144293431" url="capacitacion/html/php-basico.html" uploadstatus="1" />
+    <item modified_time="1144293457" url="capacitacion/html/php-medio.html" uploadstatus="1" />
+    <item url="includes/" uploadstatus="1" />
+    <item modified_time="1144318522" url="includes/inc_header.php" uploadstatus="1" />
+    <item modified_time="1144318516" url="includes/inc_footer.php" uploadstatus="1" />
+    <item modified_time="1144318549" url="includes/inc_banner.php" uploadstatus="1" />
+    <item modified_time="1144318604" url="includes/inc_menu_main.php" uploadstatus="1" />
+    <item modified_time="1144318644" url="includes/inc_submenu_main.php" uploadstatus="1" />
+    <item url="soluciones/administrativas/" uploadstatus="1" />
+    <item url="soluciones/seguridad/" uploadstatus="1" />
+    <item url="soluciones/respaldo/" uploadstatus="1" />
+    <item modified_time="1144318807" url="soluciones/respaldo/sistema-respaldo-amanda.html" uploadstatus="1" />
+    <item modified_time="1144318109" url="soluciones/administrativas/sql-lenger.html" uploadstatus="1" />
+    <item modified_time="1144318729" url="soluciones/seguridad/firewall.html" uploadstatus="1" />
+    <item url="soluciones/servicios/" uploadstatus="1" />
+    <item modified_time="1144318704" url="soluciones/servicios/servidor-correo-x.html" uploadstatus="1" />
+    <item modified_time="1144318146" url="soluciones/servicios/servidor-mensageria-jabber.html" uploadstatus="1" />
+    <item modified_time="1144318078" url="soluciones/servicios/servidor-web-apache.html" uploadstatus="1" />
+    <uploadprofiles showtreeviews="true" defaultProfile="admin@TICAS" >
+      <profile remote_host="ftp.ticas.com.ve" remote_port="" remote_path="" remote_protocol="ftp" user="admin@ticas.com.ve" name="admin@TICAS" />
+    </uploadprofiles>
+    <item url="templates/template.html" uploadstatus="1" />
+    <item url="quienessomos.html" uploadstatus="1" />
+    <item url="servicios.html" uploadstatus="1" />
+    <item url="ventas.html" uploadstatus="1" />
+    <item url="styles/boldblue1.css" uploadstatus="1" />
+    <item url="imagenes/" uploadstatus="1" />
+    <item url="imagenes/fotos/" uploadstatus="1" />
+    <item url="imagenes/fotos/antenas.jpg" uploadstatus="1" />
+    <item url="imagenes/fotos/cables.jpg" uploadstatus="1" />
+    <item url="imagenes/fotos/chupones.psd" uploadstatus="1" />
+    <item url="imagenes/fotos/chupon.jpg" uploadstatus="1" />
+    <item url="imagenes/fotos/computador.jpg" uploadstatus="1" />
+    <item url="imagenes/fotos/.DS_Store" uploadstatus="1" />
+    <item url="imagenes/__MACOSX/" uploadstatus="1" />
+    <item url="imagenes/__MACOSX/fotos/" uploadstatus="1" />
+    <item url="imagenes/__MACOSX/fotos/._antenas.jpg" uploadstatus="1" />
+    <item url="imagenes/__MACOSX/fotos/._cables.jpg" uploadstatus="1" />
+    <item url="imagenes/__MACOSX/fotos/._chupones.psd" uploadstatus="1" />
+    <item url="imagenes/__MACOSX/fotos/._chupon.jpg" uploadstatus="1" />
+    <item url="imagenes/__MACOSX/fotos/._computador.jpg" uploadstatus="1" />
+    <item url="imagenes/__MACOSX/fotos/._.DS_Store" uploadstatus="1" />
+    <item url="imagenes/botton_contactos_ticas.gif" uploadstatus="1" />
+    <item url="imagenes/botton_contactos_ticas.png" uploadstatus="1" />
+    <item url="imagenes/botton_home_ticas.png" uploadstatus="1" />
+    <item url="imagenes/copyleft.png" uploadstatus="1" />
+    <item url="imagenes/croquis-ticas.png" uploadstatus="1" />
+    <item url="imagenes/cursos_productos.png" uploadstatus="1" />
+    <item url="imagenes/cursos_productos.tif" uploadstatus="1" />
+    <item url="imagenes/cursos_servicios.png" uploadstatus="1" />
+    <item url="imagenes/cursos_servicios.tif" uploadstatus="1" />
+    <item url="imagenes/cursos_soporte.png" uploadstatus="1" />
+    <item url="imagenes/cursos_soporte.tif" uploadstatus="1" />
+    <item url="imagenes/cursos_ticas.tif" uploadstatus="1" />
+    <item url="imagenes/fotos.zip" uploadstatus="1" />
+    <item url="imagenes/home_ticas (copia).tif" uploadstatus="1" />
+    <item url="imagenes/home_ticas.png" uploadstatus="1" />
+    <item url="imagenes/home_ticas.tif" uploadstatus="1" />
+    <item url="imagenes/logoticas.png" uploadstatus="1" />
+    <item url="imagenes/logoticas-trans.png" uploadstatus="1" />
+    <item url="imagenes/middle_contactos_ticas_00.gif" uploadstatus="1" />
+    <item url="imagenes/middle_contactos_ticas_00.png" uploadstatus="1" />
+    <item url="imagenes/middle_contactos_ticas_01.gif" uploadstatus="1" />
+    <item url="imagenes/middle_contactos_ticas_02.gif" uploadstatus="1" />
+    <item url="imagenes/middle_home_ticas_00.png" uploadstatus="1" />
+    <item url="imagenes/middle_home_ticas_01 (copia).png" uploadstatus="1" />
+    <item url="imagenes/middle_home_ticas_01.png" uploadstatus="1" />
+    <item url="imagenes/middle_home_ticas (copia).png" uploadstatus="1" />
+    <item url="imagenes/middle_productos_ticas_00.png" uploadstatus="1" />
+    <item url="imagenes/pag_contacto.png" uploadstatus="1" />
+    <item url="imagenes/pag_contacto.tif" uploadstatus="1" />
+    <item url="imagenes/top_contactos_ticas_00.png" uploadstatus="1" />
+    <item url="imagenes/top_contactos_ticas_01.gif" uploadstatus="1" />
+    <item url="imagenes/top_contactos_ticas_01.png" uploadstatus="1" />
+    <item url="imagenes/top_home_ticas.png" uploadstatus="1" />
+    <item url="imagenes/top_productos_ticas_00.png" uploadstatus="1" />
+    <item url="imagenes/top_productos_ticas_01.png" uploadstatus="1" />
+    <item url="imagenes/top_servicios_ticas_00.png" uploadstatus="1" />
+    <item url="imagenes/top_servicios_ticas_01.png" uploadstatus="1" />
+    <item url="imagenes/top_soporte_ticas_00.png" uploadstatus="1" />
+    <item url="imagenes/top_soporte_ticas_01.png" uploadstatus="1" />
+    <item url="soporte.html" uploadstatus="1" />
+    <item url="ticasftp" uploadstatus="1" />
+    <item url="ticas.tar.gz" uploadstatus="1" />
+    <item url="inscripciones.php" uploadstatus="1" />
+    <item url="soluciones.html" uploadstatus="1" />
+    <author>Leonardo Caballero</author>
+    <email>leonardocaballero@gmail.com</email>
+    <debuggerclient>Gubed</debuggerclient>
+    <exclude cvsignore="false" />
+    <teamdata>
+      <taskleaders/>
+      <subprojectleaders>
+        <subproject location="Web" name="Sistema de Inscripciones" >
+          <subprojectleader email="roldanvargas@ticas.com.ve" name="Roldan Vargas" />
+        </subproject>
+      </subprojectleaders>
+      <leader>
+        <name>Leonardo Caballero</name>
+        <email>leonardocaballero@ticas.com.ve</email>
+      </leader>
+      <mailinglist address="cooperativa@ticas.com.ve" />
+    </teamdata>
+    <events/>
+    <item url="ticas/" uploadstatus="1" />
+    <item url="ticas/capacitacion/" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/certificaciones.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/herramientas-cat.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/herramientas-ofimatica-basico.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/instalacion-gnulinux.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/introduccion-gnulinux.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/introduccion-pc-gnulinux.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/logica-programacion.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/migracion-ofimatica-sl.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/ooo-calc.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/ooo-impress.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/ooo-suite.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/ooo-writer.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/php-avanzado.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/php-basico.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/html/php-medio.html" uploadstatus="1" />
+    <item url="ticas/capacitacion/pdf/" uploadstatus="1" />
+    <item url="ticas/descargas/" uploadstatus="1" />
+    <item url="ticas/descargas/documentos/" uploadstatus="1" />
+    <item url="ticas/descargas/imagenes/" uploadstatus="1" />
+    <item url="ticas/descargas/manuales/" uploadstatus="1" />
+    <item url="ticas/descargas/software/" uploadstatus="1" />
+    <item url="ticas/galeria/" uploadstatus="1" />
+    <item url="ticas/galeria/flisol2006/" uploadstatus="1" />
+    <item url="ticas/images/" uploadstatus="1" />
+    <item url="ticas/images/croquis-ticas.png" uploadstatus="1" />
+    <item url="ticas/images/logoticas.png" uploadstatus="1" />
+    <item url="ticas/images/logoticas-trans.png" uploadstatus="1" />
+    <item url="ticas/includes/" uploadstatus="1" />
+    <item url="ticas/includes/inc_banner.php" uploadstatus="1" />
+    <item url="ticas/includes/inc_footer.php" uploadstatus="1" />
+    <item url="ticas/includes/inc_header.php" uploadstatus="1" />
+    <item url="ticas/includes/inc_menu_main.php" uploadstatus="1" />
+    <item url="ticas/includes/inc_submenu_main.php" uploadstatus="1" />
+    <item url="ticas/productos/" uploadstatus="1" />
+    <item url="ticas/scripts/" uploadstatus="1" />
+    <item url="ticas/soluciones/" uploadstatus="1" />
+    <item url="ticas/soluciones/administrativas/" uploadstatus="1" />
+    <item url="ticas/soluciones/administrativas/sql-lenger.html" uploadstatus="1" />
+    <item url="ticas/soluciones/respaldo/" uploadstatus="1" />
+    <item url="ticas/soluciones/respaldo/sistema-respaldo-amanda.html" uploadstatus="1" />
+    <item url="ticas/soluciones/seguridad/" uploadstatus="1" />
+    <item url="ticas/soluciones/seguridad/firewall.html" uploadstatus="1" />
+    <item url="ticas/soluciones/servicios/" uploadstatus="1" />
+    <item url="ticas/soluciones/servicios/servidor-correo-x.html" uploadstatus="1" />
+    <item url="ticas/soluciones/servicios/servidor-mensageria-jabber.html" uploadstatus="1" />
+    <item url="ticas/soluciones/servicios/servidor-web-apache.html" uploadstatus="1" />
+    <item url="ticas/styles/" uploadstatus="1" />
+    <item url="ticas/styles/boldblue1.css" uploadstatus="1" />
+    <item url="ticas/styles/print.css" uploadstatus="1" />
+    <item url="ticas/styles/screen.css" uploadstatus="1" />
+    <item url="ticas/templates/" uploadstatus="1" />
+    <item url="ticas/templates/template.html" uploadstatus="1" />
+    <item url="ticas/toolbars/" uploadstatus="1" />
+    <item url="ticas/ventas/" uploadstatus="1" />
+    <item url="ticas/ventas/debian-gnulinux.html" uploadstatus="1" />
+    <item url="ticas/ventas/openoffice-org.html" uploadstatus="1" />
+    <item url="ticas/alianzas.html" uploadstatus="1" />
+    <item url="ticas/capacitacion.html" uploadstatus="1" />
+    <item url="ticas/clientes.html" uploadstatus="1" />
+    <item url="ticas/construct.html" uploadstatus="1" />
+    <item url="ticas/contactos.html" uploadstatus="1" />
+    <item url="ticas/index.html" uploadstatus="1" />
+    <item url="ticas/index.html~" uploadstatus="1" />
+    <item url="ticas/inscripciones.php" uploadstatus="1" />
+    <item url="ticas/mapadelsitio.html" uploadstatus="1" />
+    <item url="ticas/n1.html" uploadstatus="1" />
+    <item url="ticas/productos.html" uploadstatus="1" />
+    <item url="ticas/quienessomos.html" uploadstatus="1" />
+    <item url="ticas/servicios.html" uploadstatus="1" />
+    <item url="ticas/soluciones.html" uploadstatus="1" />
+    <item url="ticas/ticasweb.webprj" uploadstatus="1" />
+    <item url="ticas/ventas.html" uploadstatus="1" />
+  </project>
+</webproject>
